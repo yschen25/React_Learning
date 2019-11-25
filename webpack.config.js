@@ -7,7 +7,7 @@ module.exports = {
     },
     output: {
         // 這裡是打包後的檔案名稱
-        filename: 'bundle2.js',
+        filename: 'bundle4.js',
         // 打包後的路徑，這裡使用path模組的resolve()取得絕對位置，也就是目前專案的根目錄
         path: path.resolve('./'),
     },
@@ -15,7 +15,10 @@ module.exports = {
     module: {
         // rules的值是一個陣列可以存放多個loader物件
         rules: [
-            { test: /.js$/, exclude: /node_modules/, use: { loader: 'babel-loader', options: { presets: ['@babel/preset-react', '@babel/preset-env'] } } }
+            // 編譯 js
+            { test: /.js$/, exclude: /node_modules/, use: { loader: 'babel-loader', options: { presets: ['@babel/preset-env'] } } },
+            // 編譯 jsx
+            { test: /.jsx$/, exclude: /node_modules/, use: { loader: 'babel-loader', options: { presets: ['@babel/preset-react','@babel/preset-env'] } } }
         ]
     }
 };

@@ -40,9 +40,26 @@ class NowTime extends React.Component {
         setInterval(uploadTime, 1000);
     }
 
+    // 在 state 被修改時會執行
+    componentDidUpdate() {
+        console.log("Time is running out");
+    }
+
+    // 當組件被移除時執行
+    componentWillUnmount() {
+        console.log(`Component destroyed time : ${this.state.time}`);
+    }
+
     render() {
         return <p>{this.state.time}</p>
     }
 }
 
 ReactDOM.render(<NowTime/>, document.getElementById('app'));
+
+// 宣告一個 function 來移除 document.getElementById('app') 中的組件
+const destroyComponent = () => {
+    ReactDOM.unmountComponentAtNode(document.getElementById('app'))
+};
+
+setInterval(destroyComponent, 5000);

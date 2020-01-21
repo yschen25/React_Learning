@@ -3,11 +3,11 @@ const path = require('path');
 module.exports = {
      // 如果有一個以上的檔案需要打包，可以傳陣列給entry
     entry: {
-        index: ['./React_Day5.jsx']
+        index: ['./React_Day6.jsx']
     },
     output: {
         // 這裡是打包後的檔案名稱
-        filename: 'bundle5.js',
+        filename: 'bundle6.js',
         // 打包後的路徑，這裡使用path模組的resolve()取得絕對位置，也就是目前專案的根目錄
         path: path.resolve('./'),
     },

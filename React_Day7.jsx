@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-
 class InputGender extends React.Component {
     constructor(props) {
         super(props);
@@ -28,9 +27,9 @@ class InputGender extends React.Component {
         return (
             <div>
                 {/*{title}*/}
-                {/*用花括號包住 JavaScript 語法，以下判斷如果選擇男生就 HelloTitle，沒有 else，所以選擇女則不進行動作*/}
-                {/*{(this.state.gender === 'Man') && (<HelloTitle title="Man" />)}*/}
-                {/*用花括號包住 JavaScript 語法，以下用一行式的 if 來處理*/}
+                {/* 用花括號包住 JavaScript 語法，以下判斷如果選擇男生就 HelloTitle，沒有 else，所以選擇女則不進行動作 */}
+                {/* {(this.state.gender === 'Man') && (<HelloTitle title="Man" />)} */}
+                {/* 用花括號包住 JavaScript 語法，以下用一行式的 if 來處理 */}
                 {(this.state.gender === 'Man') ? <HelloTitle title='Man'/> : <HelloTitle title='Woman'/>}
                 <select onChange={this.selectGender.bind(this)}>
                     <option value="Man">Man</option>

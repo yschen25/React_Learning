@@ -28,11 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="React_Day11.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/React_Day11.jsx">
+      <file leaf-file-name="React_Day12.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React_Day12.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="438">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="React_Day8.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/React_Day8.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="82" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="82" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -66,15 +78,17 @@
         <option value="$PROJECT_DIR$/React_Day6.jsx" />
         <option value="$PROJECT_DIR$/React_Day7.html" />
         <option value="$PROJECT_DIR$/React_Day8.html" />
-        <option value="$PROJECT_DIR$/React_Day8.jsx" />
         <option value="$PROJECT_DIR$/React_Day9.html" />
         <option value="$PROJECT_DIR$/React_Day9.jsx" />
         <option value="$PROJECT_DIR$/React_Day10.html" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/React_Day11.html" />
-        <option value="$PROJECT_DIR$/React_Day11.jsx" />
         <option value="$PROJECT_DIR$/React_Day7.jsx" />
         <option value="$PROJECT_DIR$/React_Day10.jsx" />
+        <option value="$PROJECT_DIR$/React_Day12.html" />
+        <option value="$PROJECT_DIR$/React_Day11.jsx" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/React_Day8.jsx" />
+        <option value="$PROJECT_DIR$/React_Day12.jsx" />
       </list>
     </option>
   </component>
@@ -109,7 +123,7 @@
           <expand>
             <path>
               <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -123,7 +137,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../findMeLunch" />
+    <property name="last_opened_file_path" value="$USER_HOME$/findMeLunch" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -131,9 +145,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\Projects\React_Learning" />
       <recent name="C:\Users\YSChen\Desktop\Project_190630\Project\Projects\React_Learning" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,10 +182,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39160000" />
+    <option name="totallyTimeSpent" value="42024000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.031220436" />
@@ -179,29 +193,42 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
       <window_info id="npm" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.43519396" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.59584665" weight="0.2885525" />
       <window_info anchor="right" id="Remote Host" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.24147122" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.23322684" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4958124" weight="0.22204472" />
       <window_info id="Structure" order="0" sideWeight="0.50056756" side_tool="true" weight="0.17465389" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Remote Host" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.24147122" />
+      <window_info id="Structure" order="0" sideWeight="0.50056756" side_tool="true" weight="0.17465389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.031220436" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.43519396" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.23040605" />
       <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.22894986" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="0" sideWeight="0.50141644" side_tool="true" weight="0.14589989" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.4958124" weight="0.22204472" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.59584665" weight="0.2885525" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.43519396" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49893504" weight="0.33869442" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.19205298" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5041876" side_tool="true" weight="0.36368477" />
+      <window_info id="Favorites" order="1" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,20 +238,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/React_Day9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day9.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/React_Day8.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -471,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/React_Day8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="68">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
@@ -490,28 +503,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/React_Day3.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/React_Day4.jsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -544,29 +537,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day8.jsx">
+    <entry file="file://$PROJECT_DIR$/React_Day11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/React_Day9.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="449">
           <caret line="120" column="23" lean-forward="true" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/React_Day10.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="619">
           <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -576,8 +580,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/React_Day11.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day8.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="82" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day12.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

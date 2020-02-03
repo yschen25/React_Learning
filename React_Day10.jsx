@@ -74,8 +74,8 @@ class TemperatureForm extends React.Component {
 
     render() {
         /* 在 render 的時候，先去取 state 判斷目前儲存的溫度是攝氏還華氏
-          華氏的話 temperature_F 就不用轉，攝氏的話換 temperature_C 不轉
-          但是如果有不同就得傳進 convert 中做單位的轉換 */
+           華氏的話 temperature_F 就不用轉，攝氏的話換 temperature_C 不轉
+           但是如果有不同就得傳進 convert 中做單位的轉換 */
         let degree = this.state.degree;
         let temperature_C = this.state.type === 'F' ? this.convert(degree, 'C') : degree;
         let temperature_F = this.state.type === 'C' ? this.convert(degree, 'F') : degree;

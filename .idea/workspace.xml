@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76f09e26-80d5-4f06-b2b1-bd9058e36e45" name="Default" comment="" />
+    <list default="true" id="76f09e26-80d5-4f06-b2b1-bd9058e36e45" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day10.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day11.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day12.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day13.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day14.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day15.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day3.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day4.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day5.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day6.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day7.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day8.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_Day9.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bundle9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +76,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="React_Day10.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/React_Day10.jsx">
+      <file leaf-file-name="React_Day20.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/React_Day20.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+            <state relative-caret-position="220">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="React_Day20.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React_Day20/React_Day20.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -38,20 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="React_Day15.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/React_Day15.js">
+      <file leaf-file-name="React_Day17.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/React_Day17/React_Day17.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="React_Day15.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/React_Day15.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="30" selection-end-column="57" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -79,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/React_Day1.html" />
         <option value="$PROJECT_DIR$/React_Day3.html" />
         <option value="$PROJECT_DIR$/React_Day4.jsx" />
         <option value="$PROJECT_DIR$/React_Day4.html" />
@@ -108,10 +165,30 @@
         <option value="$PROJECT_DIR$/React_Day14.js" />
         <option value="$PROJECT_DIR$/React_Day14.jsx" />
         <option value="$PROJECT_DIR$/React_Day15.html" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/React_Day10.jsx" />
-        <option value="$PROJECT_DIR$/React_Day15.jsx" />
+        <option value="$PROJECT_DIR$/src/store/model.js" />
         <option value="$PROJECT_DIR$/React_Day15.js" />
+        <option value="$PROJECT_DIR$/src/actions/addMessage.js" />
+        <option value="$PROJECT_DIR$/src/store/action_type.js" />
+        <option value="$PROJECT_DIR$/src/reducers/React_Day15.js" />
+        <option value="$PROJECT_DIR$/src/reducers/messageReducer.js" />
+        <option value="$PROJECT_DIR$/src/store/configureStore.js" />
+        <option value="$PROJECT_DIR$/React_Day15.jsx" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/React_Day15_16.js" />
+        <option value="$PROJECT_DIR$/src/components/messageList.js" />
+        <option value="$PROJECT_DIR$/src/components/inputMessage.js" />
+        <option value="$PROJECT_DIR$/src/main.jsx" />
+        <option value="$PROJECT_DIR$/React_Day17/React_Day17.html" />
+        <option value="$PROJECT_DIR$/React_Day17/src/components/About/about.js" />
+        <option value="$PROJECT_DIR$/React_Day17.html" />
+        <option value="$PROJECT_DIR$/React_Day17/src/components/Home/Home.js" />
+        <option value="$PROJECT_DIR$/React_Day17/React_Day17.js" />
+        <option value="$PROJECT_DIR$/React_Day17/src/components/About/About.js" />
+        <option value="$PROJECT_DIR$/React_Day20.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/React_Day20/React_Day20.js" />
       </list>
     </option>
   </component>
@@ -131,7 +208,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -146,7 +223,46 @@
           <expand>
             <path>
               <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day17" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day17" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day17" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day17" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="About" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day17" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React_Learning" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="React_Day20" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="React_Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -160,14 +276,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/findMeLunch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning" />
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning\src" />
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning\src\constants" />
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning\src\reducers" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning" />
+      <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\React_Learning\React_Day17\src\components\Home" />
       <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\YSChen\Desktop\Project_200128\Project\Projects\React_Learning" />
       <recent name="C:\Users\YSChen\Desktop\Project_190630\Project\Projects\React_Learning" />
@@ -201,87 +325,86 @@
       <workItem from="1580114077003" duration="9188000" />
       <workItem from="1580142561554" duration="89000" />
       <workItem from="1580197128506" duration="7958000" />
+      <workItem from="1580730393564" duration="920000" />
+      <workItem from="1580741155071" duration="471000" />
+      <workItem from="1581305512749" duration="15927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62430000" />
+    <option name="totallyTimeSpent" value="79728000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.031220436" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.43519396" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49733475" weight="0.030235162" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" weight="0.030235162" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.43519396" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
       <window_info id="npm" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.59584665" weight="0.2885525" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5948827" weight="0.28779396" />
       <window_info anchor="right" id="Remote Host" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.24387646" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.2468017" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4958124" weight="0.22204472" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.19148937" />
       <window_info id="Structure" order="0" sideWeight="0.50056756" side_tool="true" weight="0.17465389" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.19205298" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Remote Host" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.24147122" />
-      <window_info id="Structure" order="0" sideWeight="0.50056756" side_tool="true" weight="0.17465389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.031220436" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.43519396" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.23040605" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.22894986" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="0" sideWeight="0.50141644" side_tool="true" weight="0.14589989" />
-      <window_info anchor="right" id="Database" order="5" sideWeight="0.4958124" weight="0.22204472" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.59584665" weight="0.2885525" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.43519396" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
-      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
-      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49893504" weight="0.33869442" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49893504" weight="0.33869442" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5041876" side_tool="true" weight="0.36368477" />
-      <window_info id="Favorites" order="1" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.43519396" />
-      <window_info anchor="right" id="Remote Host" order="6" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.2468017" />
       <window_info id="Structure" order="0" sideWeight="0.50056756" side_tool="true" weight="0.17465389" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.4978701" weight="0.031220436" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49733475" weight="0.030235162" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.23040605" />
-      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.19205298" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49733475" weight="0.19148937" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="14" weight="0.22894986" />
       <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="0" sideWeight="0.50141644" side_tool="true" weight="0.14589989" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.59584665" weight="0.2885525" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.43519396" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49893504" weight="0.33869442" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4958124" weight="0.22204472" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5948827" weight="0.28779396" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.030235162" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978701" weight="0.23935667" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.85835993" weight="0.27541953" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49893504" weight="0.33869442" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.1333964" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5041876" side_tool="true" weight="0.36368477" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49943247" visible="true" weight="0.24147122" />
+      <window_info id="Favorites" order="1" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,118 +414,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/React_Day7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day6.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="47" selection-start-line="47" selection-end-line="74" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day8.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day5.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day4.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day5.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -529,12 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day14.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bundle.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/React_Day11.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
@@ -545,48 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day13.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/React_Day14.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day14.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day15.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -615,19 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="82" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day12.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,17 +595,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day15.js">
+    <entry file="file://$PROJECT_DIR$/React_Day13.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="1496">
+          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React_Day15.jsx">
+    <entry file="file://$PROJECT_DIR$/React_Day14.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="85" column="36" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+        <state relative-caret-position="624">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day12.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day14.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pizza_Maker/webpack.base.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="48" column="14" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day15_16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/action_type.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/messageReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/addMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day15_16.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/inputMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/messageList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day17.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day17/src/components/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day15_16/React_Day15_16.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Days/React_Day12.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Days/React_Day13.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day17/src/components/About/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day20.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day17/React_Day17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React_Day20/React_Day20.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
